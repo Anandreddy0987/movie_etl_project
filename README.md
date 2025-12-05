@@ -1,2 +1,2 @@
-# Sample Output
-Contains example enriched CSV files.
+# SQL Folder
+Contains SQL scripts and helper queries.
