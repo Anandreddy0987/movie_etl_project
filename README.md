@@ -1,2 +1,2 @@
-# SQL Folder
-Contains SQL scripts and helper queries.
+# Data Folder
+This folder stores raw input datasets (optional).
